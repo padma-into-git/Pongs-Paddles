@@ -1,6 +1,6 @@
 # Pongs-Paddles
 
-This Game showcases a Simple Ball Game that can be played by a Player with the Computer.
+This Game showcases a Simple Ball Game that can be played by a Player with the Computer. Press "Space" Key to start playing!!!
 
 
 #Javascript
